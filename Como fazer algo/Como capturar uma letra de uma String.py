@@ -1,0 +1,1 @@
+print ("eduardo"[1]) #o codigo [1], captura uma letra de uma String , pode ser chamado de SubString

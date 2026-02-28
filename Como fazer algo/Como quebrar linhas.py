@@ -1,0 +1,1 @@
+print ('primiera linha\nsegunda linha \nterceira linha \nquarta linha')

@@ -1,0 +1,1 @@
+print ("123" + "111") # + para fazer uma concatenação de duas Strings
