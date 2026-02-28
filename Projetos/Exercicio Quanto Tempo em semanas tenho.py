@@ -1,5 +1,5 @@
 #codigo do tempo
-#viverá atpé os 90 e tem 15 anos
+#viverá até os 90 anos e tem 15 anos
 #descobrir quantas semanas tem de ageAtual 
 
 print ("Bem vindo ao contador de semanas de VIda")

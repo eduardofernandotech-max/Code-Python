@@ -4,7 +4,7 @@ print (2*2)# * é multiplicação
 print (2/2)# / é divisão
 print (2**3)# ** é a potencia 
 
-PEMDAS
+#PEMDAS
 #ordem de somas
 
 #Parenthses()
